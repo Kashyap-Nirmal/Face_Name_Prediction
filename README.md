@@ -10,7 +10,7 @@
 </p>
 
 ## Introduction
-- I am Kashyap Nirmal, studying in M.Tech second year at [`DAIICT`](https://daiict.ac.in/). I am currently doing my M.Tech Thesis under [`Prof. Manish Gupta`](https://www.guptalab.org/mankg/public_html/). This is the part of my M.Tech thesis. The 5 classes are **Krishna, Pranav, Priya, Rahul, Sonal** for Indian dataset.
+- I am Kashyap Nirmal, studying in M.Tech second year at [`DAIICT`](https://daiict.ac.in/). I am currently doing my M.Tech Thesis under [`Prof. Manish Gupta`](https://www.guptalab.org/mankg/public_html/). This is the part of my M.Tech thesis. 
 
 ## Problem Statement
 - Predict the first name of a person from the facial image of the person. The problem here is assumed to be a **classification problem**. The Classification problem means identifying a category from the available classes. The system predicts the class label which accommodates the new training sample. This task is supervised learning as the class labels are predefined. Thus the final output label will also be from the same set of these class names used in the dataset.
@@ -23,10 +23,11 @@
 
 | Directory | Content remarks |
 |---| ----- |
-|[Indian Dataset](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Indian_Dataset)| Contains all the photographs collected for the above mentioned 5 classes. |
+|[Indian Dataset](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Indian_Dataset)| Contains all the photographs collected for the above mentioned 5 classes. The 5 classes are **Krishna, Pranav, Priya, Rahul, Sonal**|
 |[Source code](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Source%20Code)| This directory contains all the training codes for all the models. It also contains the code to preprocess the Raw dataset. |
-|[Load saved Indian XGBoost Model](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Load%20saved%20Indian%20XGBoost%20Model)| This directory contains JSON model of the XGBoost algorithm trained on Indian faces for the 5 classes namely Rahul, Pranav, Krishna, Priya and Sonal. |
+|[Load saved Indian XGBoost Model](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Load%20saved%20Indian%20XGBoost%20Model)| This directory contains JSON model of the XGBoost algorithm trained on Indian faces for the 5 classes namely **Rahul, Pranav, Krishna, Priya and Sonal.** |
 |[Outputs](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/tree/main/Outputs)| This directory contains all the Confusion matrices. It also contains the Visualization results of Indian dataset. It also showcases the Final comparison table.|
+|[Google Form PDF file](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/blob/main/Data%20collection%20for%20M.Tech%20Thesis%20-%20Google%20Forms.pdf)| This is the PDF version of the Google form used for Data collection.|
 
 ## Important Links
 - [`Google Form`](https://forms.gle/7Ez75P7RuunZMQyo6/)
