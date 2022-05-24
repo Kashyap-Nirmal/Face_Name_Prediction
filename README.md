@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Kashyap-Nirmal/indian-face-name-prediction?style=plastic)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Indian%20face%20name%20prediction&fontSize=60&fontAlignY=70" /> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Face%20name%20prediction&fontSize=60&fontAlignY=70" /> 
 </p>
 
 ## Introduction
