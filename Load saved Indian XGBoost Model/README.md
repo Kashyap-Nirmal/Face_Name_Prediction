@@ -2,7 +2,7 @@
 
 # Confusion Matrix
 
-![Confusion Matrix](https://github.com/Kashyap-Nirmal/indian-face-name-prediction/blob/main/44.44_Indian_XGBoost_CM.png)
+![Confusion Matrix](https://github.com/Kashyap-Nirmal/Face_Name_Prediction/blob/main/Load%20saved%20Indian%20XGBoost%20Model/44.44_Indian_XGBoost_CM.png)
 
 # Files
 - JSON file of the saved model is available.
