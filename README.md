@@ -27,9 +27,9 @@
 ## Important Links
 - [`Google Form`](https://forms.gle/7Ez75P7RuunZMQyo6/)
 
-- [`Name100 Dataset`](https://purl.stanford.edu/tp945cq9122/)
-
 - [`All the Confusion Matrices`](https://docs.google.com/presentation/d/1ca1Bc9wPzgsABDhRIupe-HTFolChkBE4L7EoT1SXNkE/edit?usp=sharing)
+
+- Name100 Dataset, Referred and used from, Huizhong Chen, Andrew Gallagher, and Bernd Girod, "What's in a Name: First Names as Facial Attributes", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2013. Dataset available at: http://purl.stanford.edu/tp945cq9122
 
 # Thesis Duration
 Aug'21 - Present
